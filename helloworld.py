@@ -1,2 +1,2 @@
 #!/bin/bash
-print "*"*5," Hello World ", "*" *5
+print "*"*10," Hello World ", "*" *5
